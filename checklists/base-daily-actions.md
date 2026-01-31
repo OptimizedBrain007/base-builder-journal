@@ -12,3 +12,7 @@
 
 
 
+\- Review gas usage and failed transactions
+
+
+
