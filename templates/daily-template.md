@@ -40,3 +40,9 @@ Tx links (optional):
 
 
 
+\## Mood
+
+\- How I felt building today:
+
+
+
