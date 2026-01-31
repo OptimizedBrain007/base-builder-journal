@@ -32,5 +32,17 @@
 
 # Farcaster: MrDiamOnd.base.eth
 
+
+
+\## Why this exists
+
+
+
+This journal creates a public trail of my Base and Farcaster activity.  
+
+It is meant to prove consistency, learning, and real ecosystem participation.
+
+
+
 # 
 
