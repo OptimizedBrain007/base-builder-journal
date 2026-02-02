@@ -2,7 +2,7 @@
 
 
 
-Type: Base DEX  
+Type: Base DEX
 
 Use case: Swaps, LP, Base native liquidity
 
@@ -17,6 +17,12 @@ Aerodrome is one of the main liquidity hubs on Base. Most Base tokens route thro
 My take:
 
 Good UI, fast, but APRs are volatile.
+
+
+
+Risk:
+
+Liquidity can move quickly, so rewards change often.
 
 
 

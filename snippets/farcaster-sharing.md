@@ -8,5 +8,9 @@
 
 \- Avoid spam, focus on real usage
 
+\- Share weekly build updates, not daily spam
+
+\- Link the journal repo when relevant
+
 
 

@@ -8,5 +8,7 @@
 
 \- Avoid high slippage on large trades
 
+\- Avoid swapping during high volatility
+
 
 
