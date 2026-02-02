@@ -10,5 +10,7 @@
 
 \- Avoid swapping during high volatility
 
+\- On aggregators, check route and final output before confirming
+
 
 
