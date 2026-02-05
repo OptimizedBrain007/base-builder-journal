@@ -38,9 +38,19 @@
 
 
 
-This journal creates a public trail of my Base and Farcaster activity.  
+This journal creates a public trail of my Base and Farcaster activity.
 
 It is meant to prove consistency, learning, and real ecosystem participation.
+
+
+
+\## Commit Streak
+
+
+
+Current streak: Day 4  
+
+Goal: 100 commits with real Base-related work
 
 
 
